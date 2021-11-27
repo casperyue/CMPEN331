@@ -1,2 +1,2 @@
 # CMPEN331
-CMPEN 331-Computer Organization and Design. Taylan Unal Fall 2019
+ CMPEN331 FA19 with Mohammed Almekkawy 

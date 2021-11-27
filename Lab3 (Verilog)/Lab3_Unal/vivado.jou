@@ -1,0 +1,31 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Nov  6 18:24:50 2019
+# Process ID: 26032
+# Current directory: C:/Users/taylan/iCloudDrive/Fall2019/CMPEN331/Labs/Lab3/Lab3_Unal
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5820 C:\Users\taylan\iCloudDrive\Fall2019\CMPEN331\Labs\Lab3\Lab3_Unal\Lab3_Unal.xpr
+# Log file: C:/Users/taylan/iCloudDrive/Fall2019/CMPEN331/Labs/Lab3/Lab3_Unal/vivado.log
+# Journal file: C:/Users/taylan/iCloudDrive/Fall2019/CMPEN331/Labs/Lab3/Lab3_Unal\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/taylan/iCloudDrive/Fall2019/CMPEN331/Labs/Lab3/Lab3_Unal/Lab3_Unal.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source CPU_Test.tcl
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top CPU [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+close_sim
+launch_simulation
+source CPU_Test.tcl
+close_sim
+launch_simulation
+source CPU_Test.tcl
+close_sim
+launch_simulation
+archive_project C:/Users/taylan/Desktop/Lab3_Unal.xpr.zip -temp_dir C:/Users/taylan/iCloudDrive/Fall2019/CMPEN331/Labs/Lab3/Lab3_Unal/.Xil/Vivado-26032-XPS -force -include_local_ip_cache -include_config_settings
+launch_simulation

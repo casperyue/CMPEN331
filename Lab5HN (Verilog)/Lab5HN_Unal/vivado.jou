@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat Dec 21 11:53:29 2019
+# Process ID: 3820
+# Current directory: C:/Users/Taylan Unal/iCloudDrive/Fall2019/CMPEN331/Labs/Lab5Honors/Lab5HonorsOption_Unal
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4716 C:\Users\Taylan Unal\iCloudDrive\Fall2019\CMPEN331\Labs\Lab5Honors\Lab5HonorsOption_Unal\Lab5HonorsOption.xpr
+# Log file: C:/Users/Taylan Unal/iCloudDrive/Fall2019/CMPEN331/Labs/Lab5Honors/Lab5HonorsOption_Unal/vivado.log
+# Journal file: C:/Users/Taylan Unal/iCloudDrive/Fall2019/CMPEN331/Labs/Lab5Honors/Lab5HonorsOption_Unal\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Taylan Unal/iCloudDrive/Fall2019/CMPEN331/Labs/Lab5Honors/Lab5HonorsOption_Unal/Lab5HonorsOption.xpr}
+update_compile_order -fileset sources_1

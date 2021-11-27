@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="CPU_Test_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="CPU_Test" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="150209440fs"></ZoomEndTime>
+      <Cursor1Time time="31000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="210"></NameColumnWidth>
+      <ValueColumnWidth column_width="143"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="21" />
+   <wvobject fp_name="/CPU_Test/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CPU_Test/pcin" type="array">
+      <obj_property name="ElementShortName">pcin[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pcin[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CPU_Test/pcout" type="array">
+      <obj_property name="ElementShortName">pcout[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pcout[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CPU_Test/im_out" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">im_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">im_out[31:0]</obj_property>
+      <obj_property name="label">if_idin[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CPU_Test/if_idout" type="array">
+      <obj_property name="ElementShortName">if_idout[31:0]</obj_property>
+      <obj_property name="ObjectShortName">if_idout[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CPU_Test/wregwire" type="logic">
+      <obj_property name="ElementShortName">wregwire</obj_property>
+      <obj_property name="ObjectShortName">wregwire</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CPU_Test/m2regwire" type="logic">
+      <obj_property name="ElementShortName">m2regwire</obj_property>
+      <obj_property name="ObjectShortName">m2regwire</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CPU_Test/wmemwire" type="logic">
+      <obj_property name="ElementShortName">wmemwire</obj_property>
+      <obj_property name="ObjectShortName">wmemwire</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CPU_Test/aluimmwire" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">aluimmwire</obj_property>
+      <obj_property name="ObjectShortName">aluimmwire</obj_property>
+      <obj_property name="label">aluimmin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CPU_Test/regrtwire" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">regrtwire</obj_property>
+      <obj_property name="ObjectShortName">regrtwire</obj_property>
+      <obj_property name="label">regdst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CPU_Test/muxwire" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">muxwire[4:0]</obj_property>
+      <obj_property name="ObjectShortName">muxwire[4:0]</obj_property>
+      <obj_property name="label">rin[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CPU_Test/qawire" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">qawire[31:0]</obj_property>
+      <obj_property name="ObjectShortName">qawire[31:0]</obj_property>
+      <obj_property name="label">qain[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CPU_Test/qbwire" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">qbwire[31:0]</obj_property>
+      <obj_property name="ObjectShortName">qbwire[31:0]</obj_property>
+      <obj_property name="label">qbin[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CPU_Test/sign_extendedout" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">sign_extendedout[31:0]</obj_property>
+      <obj_property name="ObjectShortName">sign_extendedout[31:0]</obj_property>
+      <obj_property name="label">sign_extendedin[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CPU_Test/ewregwire" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">ewregwire</obj_property>
+      <obj_property name="ObjectShortName">ewregwire</obj_property>
+      <obj_property name="label">wregout</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CPU_Test/em2regwire" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">em2regwire</obj_property>
+      <obj_property name="ObjectShortName">em2regwire</obj_property>
+      <obj_property name="label">m2regout</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CPU_Test/ewmemwire" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">ewmemwire</obj_property>
+      <obj_property name="ObjectShortName">ewmemwire</obj_property>
+      <obj_property name="label">wmemout</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CPU_Test/ealuimmwire" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">ealuimmwire</obj_property>
+      <obj_property name="ObjectShortName">ealuimmwire</obj_property>
+      <obj_property name="label">aluimmout</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CPU_Test/emuxwire" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">emuxwire[4:0]</obj_property>
+      <obj_property name="ObjectShortName">emuxwire[4:0]</obj_property>
+      <obj_property name="label">rout[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CPU_Test/eqawire" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">eqawire[31:0]</obj_property>
+      <obj_property name="ObjectShortName">eqawire[31:0]</obj_property>
+      <obj_property name="label">qaout[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CPU_Test/eqbwire" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">eqbwire[31:0]</obj_property>
+      <obj_property name="ObjectShortName">eqbwire[31:0]</obj_property>
+      <obj_property name="label">qbout[31:0]</obj_property>
+   </wvobject>
+</wave_config>

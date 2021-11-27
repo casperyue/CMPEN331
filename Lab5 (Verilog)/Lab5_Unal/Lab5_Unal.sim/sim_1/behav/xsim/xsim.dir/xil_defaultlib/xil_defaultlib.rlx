@@ -1,0 +1,7 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/Taylan Unal/iCloudDrive/Fall2019/CMPEN331/Labs/Lab5_Unal/Lab5_Unal.sim/sim_1/behav/xsim/glbl.v,1575752773,verilog,,,,glbl,,,,,,,,
+C:/Users/Taylan Unal/iCloudDrive/Fall2019/CMPEN331/Labs/Lab5_Unal/Lab5_Unal.srcs/sim_1/new/CPU_Test.v,1575863396,verilog,,,,CPU_Test,,,,,,,,
+C:/Users/Taylan Unal/iCloudDrive/Fall2019/CMPEN331/Labs/Lab5_Unal/Lab5_Unal.srcs/sources_1/new/CPU.v,1575864118,verilog,,C:/Users/Taylan Unal/iCloudDrive/Fall2019/CMPEN331/Labs/Lab5_Unal/Lab5_Unal.srcs/sim_1/new/CPU_Test.v,,ALU;ALUMux;ControlMux;ControlUnit;DataMemory;EXEMEM;IDEXE;IFID;InstMem;MEMWB;PC;PCAdder;RegFile;SignExtend;WBMux,,,,,,,,

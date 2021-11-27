@@ -1,0 +1,7 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/Taylan Unal/Desktop/Lab5HonorsOption/Lab5HonorsOption.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/Taylan Unal/Desktop/Lab5HonorsOption/Lab5HonorsOption.srcs/sim_1/new/CPU_Test.v,1576912394,verilog,,,,CPU_Test,,,,,,,,
+C:/Users/Taylan Unal/Desktop/Lab5HonorsOption/Lab5HonorsOption.srcs/sources_1/new/CPU.v,1576913184,verilog,,C:/Users/Taylan Unal/Desktop/Lab5HonorsOption/Lab5HonorsOption.srcs/sim_1/new/CPU_Test.v,,ALU;ALUMux;ControlMux;ControlUnit;DataMemory;EXEMEM;ForwardAMux;ForwardBMux;IDEXE;IFID;InstMem;MEMWB;PC;PCAdder;RegFile;SignExtend;WBMux,,,,,,,,
